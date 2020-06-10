@@ -20,7 +20,7 @@ We strongly recoomend using `composer` to install this package.
 The installation steps are as follows:
 
 ```
-composer require lee/php-monetization
+composer require lee/php-monetization:^1.0
 ```
 
 ## Usage
