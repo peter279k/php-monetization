@@ -1,4 +1,5 @@
 # php-monetization
+![CI-Build](https://github.com/peter279k/php-monetization/workflows/CI-Build/badge.svg)
 
 ## Introduction
 
